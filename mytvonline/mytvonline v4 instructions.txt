@@ -1,0 +1,3 @@
+extract apk and then smalie open up go in smalie/lp1Lpt1tpt1/sd1
+open sd1 up and line 212 change the base 64 to your panel url and leave the end of it with this on do not alter it on the end it must say http://yourpanelurlhere/foldername/api/neutro.php?
+sd1 smalie line 212 you panel url needs to go in there recoded to base 64
